@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi, I'm Jongkuk Lim
+
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=jeikeilim&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+I will get back here soon to fill out more information!
+
 
 <!--
 **JeiKeiLim/jeikeilim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
