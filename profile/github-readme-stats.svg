@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jongkuk Lim's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 377, Total Commits  (last year) : 1024, Total PRs: 244, Total Issues: 42, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 380, Total Commits  (last year) : 1024, Total PRs: 244, Total Issues: 42, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 38.32459485745805;
+        stroke-dashoffset: 38.25615430076526;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >377</text>
+      >380</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
